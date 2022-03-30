@@ -1,4 +1,7 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=backendTime-coder&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+
+### Hello 👋
 
 <!--
 **backendTime-coder/backendTime-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 😄很高兴你点开了我的主页
+
+- 🔭 我是一个后端工程师
+- 👯 维护了微信公众号：后端时光
+- 📫 你可以通过微信搜公众号“后端时光”联系我
+- ⚡ 希望我写下的东西能帮助到你
